@@ -2,10 +2,18 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
     <loc>https://lemon1964.github.io/ai-chat-ghpages/sitemap.xml</loc>
-    <lastmod>2025-10-21</lastmod>
+    <lastmod>2025-10-24</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://lemon1964.github.io/ai-chat-ghpages/sitemap.txt</loc>
-    <lastmod>2025-10-21</lastmod>
+    <lastmod>2025-10-24</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://lemon1964.github.io/ai-chat-pages/sitemap.xml</loc>
+    <lastmod>2025-10-24</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://lemon1964.github.io/ai-chat-pages/sitemap.txt</loc>
+    <lastmod>2025-10-24</lastmod>
   </sitemap>
 </sitemapindex>
